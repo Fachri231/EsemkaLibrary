@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Advan\\source\\repos\\EsemkaLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90874EE3-7730-4BF1-8F32-B335F04EE696}|EsemkaLibrary\\EsemkaLibrary.csproj|c:\\users\\advan\\source\\repos\\esemkalibrary\\esemkalibrary\\esemkalibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90874EE3-7730-4BF1-8F32-B335F04EE696}|EsemkaLibrary\\EsemkaLibrary.csproj|solutionrelative:esemkalibrary\\esemkalibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90874EE3-7730-4BF1-8F32-B335F04EE696}|EsemkaLibrary\\EsemkaLibrary.csproj|C:\\Users\\Advan\\source\\repos\\EsemkaLibrary\\esemkalibrary\\esemkalibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90874EE3-7730-4BF1-8F32-B335F04EE696}|EsemkaLibrary\\EsemkaLibrary.csproj|solutionrelative:esemkalibrary\\esemkalibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90874EE3-7730-4BF1-8F32-B335F04EE696}|EsemkaLibrary\\EsemkaLibrary.csproj|C:\\Users\\Advan\\source\\repos\\EsemkaLibrary\\esemkalibrary\\newborrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90874EE3-7730-4BF1-8F32-B335F04EE696}|EsemkaLibrary\\EsemkaLibrary.csproj|solutionrelative:esemkalibrary\\newborrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90874EE3-7730-4BF1-8F32-B335F04EE696}|EsemkaLibrary\\EsemkaLibrary.csproj|C:\\Users\\Advan\\source\\repos\\EsemkaLibrary\\esemkalibrary\\newborrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90874EE3-7730-4BF1-8F32-B335F04EE696}|EsemkaLibrary\\EsemkaLibrary.csproj|solutionrelative:esemkalibrary\\newborrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90874EE3-7730-4BF1-8F32-B335F04EE696}|EsemkaLibrary\\EsemkaLibrary.csproj|C:\\Users\\Advan\\source\\repos\\EsemkaLibrary\\esemkalibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90874EE3-7730-4BF1-8F32-B335F04EE696}|EsemkaLibrary\\EsemkaLibrary.csproj|solutionrelative:esemkalibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Advan\\source\\repos\\EsemkaLibrary\\EsemkaLibrary\\Program.cs",
+              "RelativeDocumentMoniker": "EsemkaLibrary\\Program.cs",
+              "ToolTip": "C:\\Users\\Advan\\source\\repos\\EsemkaLibrary\\EsemkaLibrary\\Program.cs",
+              "RelativeToolTip": "EsemkaLibrary\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T07:21:01.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewBorrowing.cs",
+              "DocumentMoniker": "C:\\Users\\Advan\\source\\repos\\EsemkaLibrary\\EsemkaLibrary\\NewBorrowing.cs",
+              "RelativeDocumentMoniker": "EsemkaLibrary\\NewBorrowing.cs",
+              "ToolTip": "C:\\Users\\Advan\\source\\repos\\EsemkaLibrary\\EsemkaLibrary\\NewBorrowing.cs",
+              "RelativeToolTip": "EsemkaLibrary\\NewBorrowing.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAMwLcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T02:28:57.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewBorrowing.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Advan\\source\\repos\\EsemkaLibrary\\EsemkaLibrary\\NewBorrowing.cs",
+              "RelativeDocumentMoniker": "EsemkaLibrary\\NewBorrowing.cs",
+              "ToolTip": "C:\\Users\\Advan\\source\\repos\\EsemkaLibrary\\EsemkaLibrary\\NewBorrowing.cs [Design]",
+              "RelativeToolTip": "EsemkaLibrary\\NewBorrowing.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T02:05:57.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EsemkaLibrary.cs",
+              "DocumentMoniker": "C:\\Users\\Advan\\source\\repos\\EsemkaLibrary\\EsemkaLibrary\\EsemkaLibrary.cs",
+              "RelativeDocumentMoniker": "EsemkaLibrary\\EsemkaLibrary.cs",
+              "ToolTip": "C:\\Users\\Advan\\source\\repos\\EsemkaLibrary\\EsemkaLibrary\\EsemkaLibrary.cs",
+              "RelativeToolTip": "EsemkaLibrary\\EsemkaLibrary.cs",
+              "ViewState": "AgIAACsBAAAAAAAAAAAMwEsBAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T13:47:38.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EsemkaLibrary.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Advan\\source\\repos\\EsemkaLibrary\\EsemkaLibrary\\EsemkaLibrary.cs",
+              "RelativeDocumentMoniker": "EsemkaLibrary\\EsemkaLibrary.cs",
+              "ToolTip": "C:\\Users\\Advan\\source\\repos\\EsemkaLibrary\\EsemkaLibrary\\EsemkaLibrary.cs [Design]",
+              "RelativeToolTip": "EsemkaLibrary\\EsemkaLibrary.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T07:26:12.035Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

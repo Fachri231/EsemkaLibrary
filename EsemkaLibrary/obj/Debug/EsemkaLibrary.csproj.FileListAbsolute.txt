@@ -1,0 +1,15 @@
+C:\Users\Advan\source\repos\EsemkaLibrary\EsemkaLibrary\bin\Debug\EsemkaLibrary.exe.config
+C:\Users\Advan\source\repos\EsemkaLibrary\EsemkaLibrary\bin\Debug\EsemkaLibrary.exe
+C:\Users\Advan\source\repos\EsemkaLibrary\EsemkaLibrary\bin\Debug\EsemkaLibrary.pdb
+C:\Users\Advan\source\repos\EsemkaLibrary\EsemkaLibrary\bin\Debug\Guna.UI2.dll
+C:\Users\Advan\source\repos\EsemkaLibrary\EsemkaLibrary\obj\Debug\EsemkaLibrary.csproj.AssemblyReference.cache
+C:\Users\Advan\source\repos\EsemkaLibrary\EsemkaLibrary\obj\Debug\EsemkaLibrary.Login.resources
+C:\Users\Advan\source\repos\EsemkaLibrary\EsemkaLibrary\obj\Debug\EsemkaLibrary.Properties.Resources.resources
+C:\Users\Advan\source\repos\EsemkaLibrary\EsemkaLibrary\obj\Debug\EsemkaLibrary.csproj.GenerateResource.cache
+C:\Users\Advan\source\repos\EsemkaLibrary\EsemkaLibrary\obj\Debug\EsemkaLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Advan\source\repos\EsemkaLibrary\EsemkaLibrary\obj\Debug\EsemkaLi.F23861B6.Up2Date
+C:\Users\Advan\source\repos\EsemkaLibrary\EsemkaLibrary\obj\Debug\EsemkaLibrary.exe
+C:\Users\Advan\source\repos\EsemkaLibrary\EsemkaLibrary\obj\Debug\EsemkaLibrary.pdb
+C:\Users\Advan\source\repos\EsemkaLibrary\EsemkaLibrary\obj\Debug\EsemkaLibrary.SignUp.resources
+C:\Users\Advan\source\repos\EsemkaLibrary\EsemkaLibrary\obj\Debug\EsemkaLibrary.EsemkaLibrary.resources
+C:\Users\Advan\source\repos\EsemkaLibrary\EsemkaLibrary\obj\Debug\EsemkaLibrary.NewBorrowing.resources
